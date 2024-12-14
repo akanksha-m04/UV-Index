@@ -5,9 +5,9 @@ let userLng = 0;
 let city = '';
 let uvIndex = '';
 
-const apiKeyUV = 'openuv-1fxxhrm0eaw5gk-io';
-const apiKeyMaps = 'AIzaSyBztL1lfT2UQW-S1w9_IXfUic_0mLkRTwc';
-const apiWeather = '432e172a4f6d4beeb25e7698e6c85add';
+const apiKeyUV = 'mykey';
+const apiKeyMaps = 'mykey';
+const apiWeather = 'mykey';
 
 const baseUrlUV = 'https://api.openuv.io/api/v1/uv';
 const baseUrlProt = 'https://api.openuv.io/api/v1/protection';
